@@ -24,7 +24,7 @@ class GameController extends Controller
       $isWon = $this->checkBoard($board);
       if ($isWon) {
         // display a message
-        $game->message = $game->players[$game->turn % 2] . " won!";
+        $game->message = $game->players[$game->turn % 2] . " won in ".$game->turn ." moves!";
         // mark game as no longer in progress
         $game->in_progress = false;
       }

@@ -50,11 +50,6 @@
 
 7. Customizable grid size and required number of checkers in winning line.
 
-## Crazy Stuff (eXtreme Connect Four *gangsign*)
-
-1. Three players?!??!!
-
-2. Checkers explode at random?!?!??!
 
 
 

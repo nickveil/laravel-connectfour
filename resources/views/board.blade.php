@@ -11,7 +11,7 @@
 <h1 class="mt-5">Laravel Connect Four</h1>
 
 <div class="row justify-content-center">
-  <div class="message alert alert-info mt-5">
+  <div class="message mt-5">
 
     @if ($message !== '') 
       
